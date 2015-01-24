@@ -2,4 +2,4 @@
 Drupal homework #1 (GH 4 season)
 
 login: admin
-password: admin
+password: 123123
